@@ -1,3 +1,4 @@
+
 # Automated Resume Analyzer
 
 A Python-based project for extracting and organizing resume information, with planned natural language processing, machine learning, skill analysis, and job matching capabilities.
@@ -93,3 +94,7 @@ Use synthetic or anonymized resumes for development. Do not commit real resumes,
 ## License
 
 License to be selected before public release.
+
+# automated-resume-analyzer
+An automated resume analyzer using Python, NLP and machine learning for resume parsing, skill extraction and job matching.
+
