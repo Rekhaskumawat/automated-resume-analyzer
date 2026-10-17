@@ -1,0 +1,22 @@
+
+ALEX MORGAN
+alex.morgan@example.com
+
+PROFESSIONAL SUMMARY
+Computer Science graduate interested in Python
+development and data analysis.
+
+TECHNICAL SKILLS
+Python, SQL, Git, Machine Learning
+
+EDUCATION
+B.Tech in Computer Science
+Example University, 2026
+
+PROJECTS
+Automated Resume Analyzer
+Built a Python application to extract and
+organize resume information.
+
+CERTIFICATIONS
+Python Programming Certificate
